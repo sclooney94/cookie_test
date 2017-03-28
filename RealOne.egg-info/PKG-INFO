@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: RealOne
+Version: 0.1.0
+Summary: Boilerplate for RealOne
+Home-page: UNKNOWN
+Author: sean.clooney
+Author-email: sean.clooney@bloombergpolarlake.com
+License: (c) Bloomberg PolarLake, all rights reserved
+Description: ##realone
+        
+        Boilerplate for RealOne
+        
+        #Install
+        
+        pip install realone
+        TODO
+Keywords: realone
+Platform: UNKNOWN
+Classifier: Private :: Do Not Upload
+Classifier: License :: (c) Bloomberg PolarLake, all rights reserved
+Classifier: Programming Language :: Python :: 2.7

@@ -1,0 +1,10 @@
+include pylintrc
+include *.txt
+include *.md
+recursive-include realone *.txt
+recursive-include realone *.md
+recursive-include realone *.cfg
+graft doc/source
+include doc/check_sphinx.py
+include doc/make.bat
+include doc/Makefile

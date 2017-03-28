@@ -1,0 +1,15 @@
+-r requirements.txt
+mock
+nose
+pytest
+PyHamcrest
+coverage
+six
+traceback2
+pylint==1.5.6
+pep8
+frosted
+bumpversion
+unittest2
+sphinx
+tox==2.0.0
